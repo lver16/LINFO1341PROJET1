@@ -1,3 +1,6 @@
 Voici le repertoire des différentes captures Wireshark effectuées dans le cadre du Projet 1 du cours LINFO1341 : Réseaux informatiques.
 
 Les noms des paquets capturés utilisés sont cités dans le rapport.
+
+Script : 
+- graphe_circulaire_navigateur.py : script python qui plot un graphe circulaire de la répartition des types de requètes DNS effectuées par les navigateurs ; Chrome, Firefox, Safari
