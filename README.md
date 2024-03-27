@@ -7,3 +7,5 @@ Script :
 
 Capture Wireshark 
 = dans le dossier, on peut retrouver les différentes captures faites durant le projet. Elles ont été utilisées pour faire l'analyse et l'étude de l'application OneDrive.
+
+my_keys.txt = contient les clés pour décrypter le contenu HTTP2
